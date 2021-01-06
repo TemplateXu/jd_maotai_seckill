@@ -1,5 +1,5 @@
 # 有什么问题请看这里[关于删除jd_seckill代码的通知](https://github.com/huanghyw/jd_seckill/tree/main)
-# 我就不修改了，有啥问题会写代码的自己改改吧！最近股市行情好，茅台的事情放到明年了，炒股赚钱去了。
+
 
 # Jd_Seckill
 请安装python 3.8 运行此项目，就不会出现各种问题了
